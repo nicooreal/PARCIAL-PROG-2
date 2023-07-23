@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1685487181 source:c:\users\nico\documents\utn\programacion 2\prime parcial\primerparcial\real_nicolas\main.cpp
+	<iostream>
+	<string.h>
+	"clases_p.h"
+
+1664839597 c:\users\nico\documents\utn\programacion 2\prime parcial\primerparcial\real_nicolas\clases_p.h
+	<iostream>
+	<string.h>
+
